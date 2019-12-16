@@ -19,8 +19,7 @@ setup_params = dict(
         "License :: OSI Approved :: BSD License",
         "Operating System :: OS Independent",
     ],
-    keywords='database db-api sqream sqreamdb',
-    python_requires='>=3.6'
+    keywords='database db-api sqream sqreamdb'
 
     '''
     # install_requires=['sqlalchemy'],
